@@ -1,10 +1,10 @@
 # Experiment Code Chapter 3
 
-Nama : Yulia Eka Ardhani==========================================
+Nama : Yulia Eka Ardhani
 
-Kelas : TI 3C / 20
+Kelas : TI 3C 
 
-NIM : 2041720054
+NIM : 2041720064
 
 ## Langkah-langkah pengerjaan
 
