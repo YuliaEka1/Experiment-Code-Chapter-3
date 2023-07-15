@@ -1,6 +1,6 @@
 # Experiment Code Chapter 3
 
-Nama : Yudas Malabi
+Nama : Yulia Eka Ardhani==========================================
 
 Kelas : TI 3C / 20
 
